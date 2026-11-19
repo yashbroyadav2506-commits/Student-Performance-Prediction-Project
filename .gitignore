@@ -1,5 +1,6 @@
 .venv/
 venv/
+.vercel/
 __pycache__/
 *.py[cod]
 
@@ -11,3 +12,5 @@ __pycache__/
 
 .DS_Store
 Thumbs.db
+.vercel
+.env*
